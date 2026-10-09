@@ -1,0 +1,6 @@
+{
+  "name": "CityPlay Pune",
+  "description": "Smart city exploration companion for Pune combining places, culture, safety and live city data on an interactive map.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
